@@ -1,4 +1,5 @@
 # Hello, im an 18 year old guy from Slovakia.
+@dev1ss0 on discord
 
 ## Things i do now: 
 
