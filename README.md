@@ -1,8 +1,6 @@
 # Hello, im an 18 year old guy from Slovakia.
 
-Things i do now: 
-
-
+## Things i do now: 
 
 beginner java programmer
 
@@ -10,7 +8,7 @@ community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam/Poja
 
 hardcore enthusiast
 
-Things i did in the past:
+## Things i did in the past:
 
 Ex professional esport coach for PubgM [Entropiq](https://www.entropiq.gg/)
 
