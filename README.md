@@ -1,4 +1,4 @@
-# Hello, im an 18 year old guy from Slovakia.
+# Hello, im an 19 year old guy from Slovakia.
 @dev1ss0 on discord
 
 WIP bio : https://dev1ss0.github.io/bio
