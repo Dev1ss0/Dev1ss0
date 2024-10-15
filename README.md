@@ -7,7 +7,7 @@ WIP bio : https://dev1ss0.github.io/bio
 
 beginner java programmer
 
-community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) discord
+community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam) discord
 
 hardcore enthusiast
 
