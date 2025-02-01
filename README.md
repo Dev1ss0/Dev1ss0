@@ -1,11 +1,9 @@
 # Hello, im an 19 year old guy from Slovakia.
 @dev1ss0 on discord
 
-WIP bio : https://dev1ss0.github.io/bio
+My website: https://dev1ss0.lol
 
 ## Things i do now: 
-
-beginner java programmer
 
 community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam) discord
 
