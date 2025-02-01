@@ -5,9 +5,9 @@ My website: https://dev1ss0.lol
 
 ## Things i do now: 
 
-community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam) discord
+Community manager for [@PojavLauncher](https://github.com/PojavLauncherTeam) discord
 
-hardcore enthusiast
+Hardcore enthusiast
 
 ## Things i did in the past:
 
