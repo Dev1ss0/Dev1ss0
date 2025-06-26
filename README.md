@@ -1,7 +1,7 @@
 # Heyo! I am an 19 year old guy from Slovakia.
 @dev1ss0 on discord
 
-My website: https://dev1ss0.lol (rewrite soon on github pages)
+My website: Deleted. Soon to be rewritten on github pages. 
 
 ## Things i do now: 
 
